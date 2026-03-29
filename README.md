@@ -1,5 +1,8 @@
 # ComfyUI-SAM3
 
+> [!IMPORTANT]
+> This fork avoids any unnecessary installs and dependencies that were added by the other developer.
+
 ComfyUI integration for Meta's SAM3 (Segment Anything Model 3). Open-vocabulary image and video segmentation using natural language text prompts.
 
 https://github.com/user-attachments/assets/323df482-1f05-4c69-8681-9bfb4073f766
